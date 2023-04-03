@@ -28,7 +28,7 @@ If you think that a package is missing from this list, please let us know throug
 
 ## [General purpose]{#general}
 
-- `r package("ggiraph")` | adopts ggplot syntax for interactive graphics.
+- `r package("ggiraph")` and `r package("animint2")` | adopt ggplot syntax for interactive graphics.
 - `r package("highcharter")` | R binding to the general purpose highchart JavaScript library.
 - `r package("rgl")` |  3D visualization using OpenGL
 
